@@ -1,0 +1,58 @@
+Order_ID,Order_Date,Customer_Name,Customer_Email,Region,Product_Category,Product_Name,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Salesperson
+ORD001,15-01-2024,Rahul Sharma,rahul.sharma@mail.com,North,Electronics,Laptop,2,55000,10,Credit Card,Delivered,Amit
+ORD002,15-01-2024,PRIYA VERMA,priya.verma@mail.com,north,Electronics,Mobile,5,20000,5,UPI,Delivered,Sneha
+ORD003,Jan 20 2024,  arjun mehta  ,arjun.mehta@mail.com,NORTH ,Furniture,Chair,10,3500,0,Cash,Delivered,Rohit
+ORD004,01-02-2024,Sneha Kapoor,sneha.k@mail.com,South,Clothing,T-Shirt,,1200,15,UPI,Delivered,Amit
+ORD005,02-02-2024,Rahul Sharma,rahul.sharma@mail.com,North,Electronics,Laptop,2,55000,10,Credit Card,Delivered,Amit
+ORD006,10-02-2024,VIKRAM SINGH,vikram.s@mail.com,south,Clothing,Jeans,3,$2500,0,Cash,Delivered,Sneha
+ORD007,10-02-2024,Ananya Iyer,ananya@mail.com,South,Electronics,Headphones,7,3000,5,Debit Card,Pending,Rohit
+ORD008,05-03-2024,Karan Malhotra,karan.m@mail.com,East,Furniture,Table,4,8000,10,UPI,Delivered,Amit
+ORD009,05-03-2024,meera nair,meera.nair@mail.com,east,Furniture,Sofa,1,45000,20,Credit Card,Cancelled,Sneha
+ORD010,12-03-2024,Rajesh Kumar,rajesh.k@mail.com,West,Electronics,TV,3,60000,15,Debit Card,Delivered,Rohit
+ORD011,15-03-2024,Sneha Kapoor,sneha.k@mail.com,South,Clothing,T-Shirt,2,1200,15,UPI,Delivered,Amit
+ORD012,15-03-2024,DIVYA REDDY,divya.r@mail.com,WEST,Clothing,Dress,6,2500,10,Cash,Delivered,Sneha
+ORD013,01-04-2024,Amit Joshi,amit.j@mail.com,North,Electronics,Tablet,2,30000,5,UPI,Delivered,Rohit
+ORD014,01-04-2024,POOJA SINGH,pooja@mail.com,North,Electronics,Camera,1,70000,0,Credit Card,Pending,Amit
+ORD015,10-04-2024,Rahul Sharma,rahul.sharma@mail.com,North,Electronics,Mobile,3,20000,10,UPI,Delivered,Sneha
+ORD016,15-04-2024,  Ananya Iyer ,ananya@mail.com,south,Furniture,Bed,2,35000,15,Debit Card,Delivered,Rohit
+ORD017,Apr 20 2024,Vikram Singh,vikram.s@mail.com,South,Clothing,Shirt,8,1800,5,Cash,Delivered,Amit
+ORD018,01-05-2024,KARAN MALHOTRA,karan.m@mail.com,East,Furniture,Sofa,,45000,10,Credit Card,Delivered,Sneha
+ORD019,01-05-2024,Meera Nair,meera.nair@mail.com,East,Electronics,Laptop,1,55000,5,UPI,Delivered,Rohit
+ORD020,10-05-2024,Rajesh Kumar,rajesh.k@mail.com,West,Electronics,TV,2,$60000,15,Debit Card,Delivered,Amit
+ORD021,15-05-2024,Sneha Kapoor,sneha.k@mail.com,South,Clothing,T-Shirt,3,1200,15,UPI,Delivered,Sneha
+ORD022,15-05-2024,DIVYA REDDY,divya.r@mail.com,West,Clothing,Dress,4,2500,10,Cash,Cancelled,Rohit
+ORD023,01-06-2024,Amit Joshi,amit.j@mail.com,North,Electronics,Tablet,3,30000,5,UPI,Delivered,Amit
+ORD024,05-06-2024,POOJA SINGH,pooja@mail.com,North,Electronics,Camera,2,70000,0,Credit Card,Delivered,Sneha
+ORD025,Jun 10 2024,Rahul Sharma,rahul.sharma@mail.com,North,Electronics,Laptop,1,55000,10,UPI,Delivered,Rohit
+ORD026,15-06-2024,Ananya Iyer,ananya@mail.com,South,Furniture,Chair,12,3500,5,Cash,Delivered,Amit
+ORD027,20-06-2024,Karan Malhotra,karan.m@mail.com,East,Furniture,Table,5,8000,10,UPI,Delivered,Sneha
+ORD028,20-06-2024,Meera Nair,meera.nair@mail.com,east,Electronics,Headphones,10,3000,0,Debit Card,Pending,Rohit
+ORD029,01-07-2024,Rajesh Kumar,rajesh.k@mail.com,West,Electronics,TV,1,60000,15,Credit Card,Delivered,Amit
+ORD030,05-07-2024,Sneha Kapoor,sneha.k@mail.com,South,Clothing,Jeans,4,2500,5,Cash,Delivered,Sneha
+ORD031,05-07-2024,DIVYA REDDY,divya.r@mail.com,West,Clothing,Dress,3,2500,10,UPI,Delivered,Rohit
+ORD032,10-07-2024,Amit Joshi,amit.j@mail.com,North,Electronics,Tablet,2,30000,5,Debit Card,Delivered,Amit
+ORD033,15-07-2024,POOJA SINGH,pooja@mail.com,north,Electronics,Camera,1,70000,0,Cash,Cancelled,Sneha
+ORD034,Jul 20 2024,Rahul Sharma,rahul.sharma@mail.com,North,Furniture,Sofa,1,45000,20,Credit Card,Delivered,Rohit
+ORD035,01-08-2024,Ananya Iyer,ananya@mail.com,South,Furniture,Bed,2,35000,10,UPI,Delivered,Amit
+ORD036,01-08-2024,Karan Malhotra,karan.m@mail.com,East,Clothing,Shirt,7,1800,5,Cash,Delivered,Sneha
+ORD037,10-08-2024,Meera Nair,meera.nair@mail.com,East,Electronics,Headphones,5,3000,0,UPI,Delivered,Rohit
+ORD038,15-08-2024,Rajesh Kumar,rajesh.k@mail.com,WEST,Electronics,TV,2,60000,15,Debit Card,Delivered,Amit
+ORD039,15-08-2024,Sneha Kapoor,sneha.k@mail.com,South,Clothing,T-Shirt,3,1200,15,Credit Card,Delivered,Sneha
+ORD040,01-09-2024,DIVYA REDDY,divya.r@mail.com,West,Clothing,Dress,2,2500,10,UPI,Delivered,Rohit
+ORD041,05-09-2024,Amit Joshi,amit.j@mail.com,North,Electronics,Tablet,1,30000,5,UPI,Delivered,Amit
+ORD042,10-09-2024,POOJA SINGH,pooja@mail.com,North,Electronics,Camera,,70000,0,Cash,Delivered,Sneha
+ORD043,15-09-2024,Rahul Sharma,rahul.sharma@mail.com,north,Electronics,Mobile,4,20000,10,Credit Card,Delivered,Rohit
+ORD044,15-09-2024,Ananya Iyer,ananya@mail.com,South,Furniture,Chair,8,3500,5,UPI,Delivered,Amit
+ORD045,01-10-2024,Karan Malhotra,karan.m@mail.com,East,Furniture,Table,3,8000,10,Debit Card,Pending,Sneha
+ORD046,05-10-2024,Meera Nair,meera.nair@mail.com,East,Electronics,Laptop,1,55000,5,Cash,Delivered,Rohit
+ORD047,05-10-2024,Rajesh Kumar,rajesh.k@mail.com,West,Electronics,TV,3,60000,15,UPI,Delivered,Amit
+ORD048,10-10-2024,Sneha Kapoor,sneha.k@mail.com,South,Clothing,Jeans,5,2500,0,Credit Card,Delivered,Sneha
+ORD049,15-10-2024,DIVYA REDDY,divya.r@mail.com,West,Clothing,Dress,2,2500,10,Cash,Cancelled,Rohit
+ORD050,01-11-2024,Amit Joshi,amit.j@mail.com,North,Electronics,Tablet,2,30000,5,UPI,Delivered,Amit
+ORD001,15-01-2024,Rahul Sharma,rahul.sharma@mail.com,North,Electronics,Laptop,2,55000,10,Credit Card,Delivered,Amit
+ORD005,02-02-2024,Rahul Sharma,rahul.sharma@mail.com,North,Electronics,Laptop,2,55000,10,Credit Card,Delivered,Amit
+ORD051,05-11-2024,  priya verma  ,priya.verma@mail.com,NORTH,Electronics,Mobile,3,20000,5,UPI,Delivered,Sneha
+ORD052,10-11-2024,VIKRAM SINGH,vikram.s@mail.com,south,Clothing,Shirt,6,1800,5,Debit Card,Delivered,Rohit
+ORD053,15-11-2024,Ananya Iyer,ananya@mail.com,South,Furniture,Bed,1,35000,10,UPI,Pending,Amit
+ORD054,20-11-2024,Karan Malhotra,karan.m@mail.com,East,Furniture,Sofa,2,45000,20,Credit Card,Delivered,Sneha
+ORD055,Nov 25 2024,Meera Nair,meera.nair@mail.com,East,Electronics,Headphones,4,3000,0,Cash,Delivered,Rohit
